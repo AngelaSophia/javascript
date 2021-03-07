@@ -2,6 +2,7 @@ function fruits(){
     var fruit =["Banana","Orange","Mangoes"];
     fruit.forEach((fruit)=>{
         console.log(fruit)
+
     
 });
 console.log(fruit[0]);
